@@ -37,7 +37,7 @@ export default function IndexPage() {
         />
         <meta
           property="og:image"
-          content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
+          content="https://better-profile-v2.vercel.app/cover.png"
         />
 
         {/* <!-- Twitter --> */}
@@ -53,7 +53,7 @@ export default function IndexPage() {
         />
         <meta
           property="twitter:image"
-          content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
+          content="https://better-profile-v2.vercel.app/cover.png"
         ></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/rocket.ico" />
