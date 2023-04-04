@@ -8,12 +8,63 @@ export default function IndexPage() {
   return (
     <Layout>
       <Head>
-        <title>Better Profile</title>
+        <title>Better Profile - LinkedIn Profile Advisor</title>
+        <meta
+          name="Better Profile - LinkedIn Profile Advisor"
+          content="Aprimore seu perfil no LinkedIn com recomendações personalizadas! Sugerimos ações específicas para aumentar a visibilidade do seu perfil e atrair mais oportunidades profissionais."
+        />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* <!-- Primary Meta Tags --> */}
+        <title>Better Profile - LinkedIn Profile Advisor</title>
+        <meta
+          name="title"
+          content="Better Profile - LinkedIn Profile Advisor"
+        />
         <meta
           name="description"
-          content="Seu perfil do Linkedin pronto para o mercado de trabalho"
+          content="Aprimore seu perfil no LinkedIn com recomendações personalizadas! Sugerimos ações específicas para aumentar a visibilidade do seu perfil e atrair mais oportunidades profissionais."
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* <!-- Open Graph / Facebook --> */}
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:url"
+          content="https://vercel.com/lucianosilva/better-profile-v2"
+        />
+        <meta
+          property="og:title"
+          content="Better Profile - LinkedIn Profile Advisor"
+        />
+        <meta
+          property="og:description"
+          content="Aprimore seu perfil no LinkedIn com recomendações personalizadas! Sugerimos ações específicas para aumentar a visibilidade do seu perfil e atrair mais oportunidades profissionais."
+        />
+        <meta
+          property="og:image"
+          content="blob:https://instant.tools/5c589773-25a1-435f-8360-d9ef330a4d22"
+        />
+
+        {/* <!-- Twitter --> */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://vercel.com/lucianosilva/better-profile-v2"
+        />
+        <meta
+          property="twitter:title"
+          content="Better Profile - LinkedIn Profile Advisor"
+        />
+        <meta
+          property="twitter:description"
+          content="Aprimore seu perfil no LinkedIn com recomendações personalizadas! Sugerimos ações específicas para aumentar a visibilidade do seu perfil e atrair mais oportunidades profissionais."
+        />
+        <meta
+          property="twitter:image"
+          content="blob:https://instant.tools/a685a1d5-e5ae-4836-8e49-53935ad84701"
+        />
+
         <link rel="icon" href="/rocket.ico" />
       </Head>
       <section className="xk:pr-10 container mx-auto grid items-center md:col-span-2 md:items-center xl:gap-24 xl:py-12">
