@@ -4,26 +4,25 @@ interface SiteConfig {
   name: string
   description: string
   mainNav: NavItem[]
-  links: {
-    twitter: string
-    github: string
-    docs: string
-  }
+  // links: {
+  //   twitter: string
+  //   github: string
+  //   docs: string
+  // }
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Next.js",
-  description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+  name: "Better Profile",
+  description: "Seu LinkedIn com recomendações personalizadas",
   mainNav: [
     {
-      title: "Home",
+      title: "Documentation",
       href: "/",
     },
   ],
-  links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
-  },
+  // links: {
+  //   twitter: "/",
+  //   github: "/",
+  //   docs: "/",
+  // },
 }
