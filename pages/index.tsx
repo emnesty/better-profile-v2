@@ -32,10 +32,12 @@ export default function IndexPage() {
                 Antes
               </h1>
               <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
-                is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry&apos;s standard dummy text
-                ever since the 1500s, when an unknown printer took a galley of
-                type and scrambled it to make a type specimen book.
+                🌟 Soluções Inovadoras para AB-Inbev: Liderei projetos de
+                pesquisa tecnológica de vanguarda, contribuí significativamente
+                para o Beer Garage Insights e Emerging Techs Radar for 5YP e
+                co-inventei a LAHBS Box, um programa de intraempreendedorismo
+                que se transformou em uma oferta comercial para empresas
+                nacionais e multinacionais.
               </p>
             </div>
             <div className="max-w-[625px flex flex-col items-start">
@@ -43,10 +45,12 @@ export default function IndexPage() {
                 Depois
               </h1>
               <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
-                is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry&apos;s standard dummy text
-                ever since the 1500s, when an unknown printer took a galley of
-                type and scrambled it to make a type specimen book.
+                🔧 Versatilidade Setorial: Meu portfólio de projetos abrange uma
+                vasta gama de áreas, incluindo logística, vendas, marketing,
+                cadeia de suprimentos, aeroportos, sistemas de compressão de
+                gás, comportas de usinas hidrelétricas, unidades de controle
+                hidráulico de válvulas submarinas e sistemas hidráulicos para
+                usinas de cana-de-açúcar.
               </p>
             </div>
             {/* <div className="flex col-span-2 gap-20 py-9 justify-between">
