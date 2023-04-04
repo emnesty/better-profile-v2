@@ -13,9 +13,6 @@ export default function IndexPage() {
           name="Better Profile - LinkedIn Profile Advisor"
           content="Aprimore seu perfil no LinkedIn com recomendações personalizadas! Sugerimos ações específicas para aumentar a visibilidade do seu perfil e atrair mais oportunidades profissionais."
         />
-
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-
         {/* <!-- Primary Meta Tags --> */}
         <title>Better Profile - LinkedIn Profile Advisor</title>
         <meta
@@ -29,10 +26,7 @@ export default function IndexPage() {
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta
-          property="og:url"
-          content="https://vercel.com/lucianosilva/better-profile-v2"
-        />
+        <meta property="og:url" content="https://metatags.io/" />
         <meta
           property="og:title"
           content="Better Profile - LinkedIn Profile Advisor"
@@ -43,15 +37,12 @@ export default function IndexPage() {
         />
         <meta
           property="og:image"
-          content="blob:https://instant.tools/5c589773-25a1-435f-8360-d9ef330a4d22"
+          content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
         />
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:url"
-          content="https://vercel.com/lucianosilva/better-profile-v2"
-        />
+        <meta property="twitter:url" content="https://metatags.io/" />
         <meta
           property="twitter:title"
           content="Better Profile - LinkedIn Profile Advisor"
@@ -62,9 +53,9 @@ export default function IndexPage() {
         />
         <meta
           property="twitter:image"
-          content="blob:https://instant.tools/a685a1d5-e5ae-4836-8e49-53935ad84701"
-        />
-
+          content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
+        ></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/rocket.ico" />
       </Head>
       <section className="xk:pr-10 container mx-auto grid items-center md:col-span-2 md:items-center xl:gap-24 xl:py-12">
