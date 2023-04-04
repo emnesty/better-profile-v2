@@ -11,12 +11,12 @@ export default function IndexPage() {
         <title>Better Profile</title>
         <meta
           name="description"
-          content="Sem perfil do Linkedin pronto para o mercado de trabalho"
+          content="Seu perfil do Linkedin pronto para o mercado de trabalho"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <section className="container col-span-2 items-center gap-9 py-9 pr-10 pt-48 md:py-24">
+      <section className="container col-span-2 items-center gap-9 py-9 pr-10 pt-48 md:py-12">
         <div className="col-span-2 flex justify-between gap-6 py-9">
           <div className="flex max-w-[625px] flex-col items-start gap-9 py-9">
             <h1 className="max-w-[625px] text-2xl font-extrabold leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-5xl">
@@ -67,7 +67,7 @@ export default function IndexPage() {
           </div>
           <div className="flex max-w-[520px] flex-col items-end justify-center gap-9 rounded-3xl border border-gray-200 bg-white px-8 dark:border-gray-700 dark:bg-gray-800">
             <h1 className="w-full text-2xl font-bold tracking-normal sm:text-3xl md:text-3xl lg:text-3xl">
-              Better Profile{" "}
+              🚀 Better Profile{" "}
             </h1>
             <h1 className="w-full text-2xl leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-2xl">
               Cadastre-se para o beta!{" "}
