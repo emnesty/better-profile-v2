@@ -16,22 +16,22 @@ export default function IndexPage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/rocket.ico" />
       </Head>
-      <section className="container col-span-2 items-center gap-9 py-9 pr-10 pt-48 md:py-12">
-        <div className="col-span-2 flex justify-between gap-6 py-9">
-          <div className="flex max-w-[625px] flex-col items-start gap-9 py-9">
+      <section className="xk:pr-10 container mx-auto grid items-center md:col-span-2 md:items-center xl:gap-24 xl:py-12">
+        <div className="gap-24 py-9 md:flex xl:col-span-2">
+          <div className="max-w-[625px] flex-row gap-9 py-9 md:flex md:flex-col md:items-start">
             <h1 className="max-w-[625px] text-2xl font-extrabold leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-5xl">
               Seu LinkedIn pronto para o mercado de trabalho.{" "}
             </h1>
-            <p className="max-w-[625px] text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
+            <p className="w-full max-w-[625px] text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
               Aprimore seu perfil no LinkedIn com recomendações personalizadas!
               Sugerimos ações específicas para aumentar a visibilidade do seu
               perfil e atrair mais oportunidades profissionais.
             </p>
             <div className="max-w-[625px flex flex-col items-start">
-              <h1 className="flex max-w-full flex-col items-start py-5">
+              <h1 className=" flex w-full max-w-full flex-col items-start py-5">
                 Antes
               </h1>
-              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
+              <p className="w-full rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 🌟 Soluções Inovadoras para AB-Inbev: Liderei projetos de
                 pesquisa tecnológica de vanguarda, contribuí significativamente
                 para o Beer Garage Insights e Emerging Techs Radar for 5YP e
@@ -40,11 +40,11 @@ export default function IndexPage() {
                 nacionais e multinacionais.
               </p>
             </div>
-            <div className="max-w-[625px flex flex-col items-start">
-              <h1 className="flex max-w-full flex-col items-start py-5">
+            <div className="flex max-w-screen-sm flex-col items-start">
+              <h1 className="flex w-full max-w-full flex-col items-start py-5">
                 Depois
               </h1>
-              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
+              <p className="w-full rounded-3xl border border-gray-200 bg-white px-8 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 🔧 Versatilidade Setorial: Meu portfólio de projetos abrange uma
                 vasta gama de áreas, incluindo logística, vendas, marketing,
                 cadeia de suprimentos, aeroportos, sistemas de compressão de
@@ -65,14 +65,14 @@ export default function IndexPage() {
               </h2>
             </div> */}
           </div>
-          <div className="flex max-w-[520px] flex-col items-end justify-center gap-9 rounded-3xl border border-gray-200 bg-white px-8 dark:border-gray-700 dark:bg-gray-800">
+          <div className="flex max-w-screen-sm flex-col items-end justify-center gap-9 rounded-3xl border border-gray-200 bg-white px-8 py-5 dark:border-gray-700 dark:bg-gray-800">
             <h1 className="w-full text-2xl font-bold tracking-normal sm:text-3xl md:text-3xl lg:text-3xl">
               🚀 Better Profile{" "}
             </h1>
             <h1 className="w-full text-2xl leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-2xl">
               Cadastre-se para o beta!{" "}
             </h1>
-            <p className="max-w-[440px] text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
+            <p className="max-w-screen-sm text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
               Enviaremos em breve convites para os que quiserem testar nossa
               ferramenta.
             </p>
