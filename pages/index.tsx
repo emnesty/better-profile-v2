@@ -53,7 +53,7 @@ export default function IndexPage() {
               </h2>
             </div> */}
           </div>
-          <div className="flex max-w-[5200px]justify-end flex-col items-end gap-9 pb-9 py-9 px-8 bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700">
+          <div className="flex max-w-[520px] justify-center flex-col items-end gap-9 px-8 bg-white border border-gray-200 rounded-3xl dark:bg-gray-800 dark:border-gray-700">
             <h1 className="text-2xl w-full leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-2xl">
               Cadastre-se para o teste beta!{" "}
             </h1>
