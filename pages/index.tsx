@@ -19,10 +19,10 @@ export default function IndexPage() {
       <section className="xk:pr-10 container mx-auto grid items-center md:col-span-2 md:items-center xl:gap-24 xl:py-12">
         <div className="gap-24 py-9 md:flex xl:col-span-2">
           <div className="max-w-[625px] flex-row gap-9 py-9 md:flex md:flex-col md:items-start">
-            <h1 className="max-w-[625px] text-2xl font-extrabold leading-tight tracking-normal sm:text-3xl md:text-3xl lg:text-5xl">
+            <h1 className="max-w-[625px] pb-5 text-2xl font-extrabold leading-tight tracking-normal sm:text-3xl md:pb-5 md:text-3xl lg:text-5xl">
               Seu LinkedIn pronto para o mercado de trabalho.{" "}
             </h1>
-            <p className="w-full max-w-[625px] text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
+            <p className="pb:5 w-full max-w-[625px] text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
               Aprimore seu perfil no LinkedIn com recomendações personalizadas!
               Sugerimos ações específicas para aumentar a visibilidade do seu
               perfil e atrair mais oportunidades profissionais.
