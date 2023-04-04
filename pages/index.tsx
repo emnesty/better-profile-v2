@@ -14,7 +14,7 @@ export default function IndexPage() {
           content="Seu perfil do Linkedin pronto para o mercado de trabalho"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/rocket.ico" />
       </Head>
       <section className="container col-span-2 items-center gap-9 py-9 pr-10 pt-48 md:py-12">
         <div className="col-span-2 flex justify-between gap-6 py-9">
