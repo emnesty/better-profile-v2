@@ -28,10 +28,10 @@ export default function IndexPage() {
               perfil e atrair mais oportunidades profissionais.
             </p>
             <div className="max-w-[625px flex flex-col items-start">
-              <h1 className="flex max-w-full flex-col items-start pb-5">
+              <h1 className="flex max-w-full flex-col items-start py-5">
                 Antes
               </h1>
-              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 pb-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
+              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 is simply dummy text of the printing and typesetting industry.
                 Lorem Ipsum has been the industry's standard dummy text ever
                 since the 1500s, when an unknown printer took a galley of type
@@ -39,10 +39,10 @@ export default function IndexPage() {
               </p>
             </div>
             <div className="max-w-[625px flex flex-col items-start">
-              <h1 className="flex max-w-full flex-col items-start pb-5">
+              <h1 className="flex max-w-full flex-col items-start py-5">
                 Depois
               </h1>
-              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 pb-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
+              <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 is simply dummy text of the printing and typesetting industry.
                 Lorem Ipsum has been the industry's standard dummy text ever
                 since the 1500s, when an unknown printer took a galley of type
@@ -74,7 +74,7 @@ export default function IndexPage() {
             </p>
             <div className="grid w-full max-w-lg items-center gap-1.5">
               <Input type="email" id="email-2" placeholder="Email" />
-              <p className="pb-5 text-sm text-slate-500">
+              <p className="py-5 text-sm text-slate-500">
                 Não se preocupe, não enviaremos nenhum spam.
               </p>
               <Button size="lg" type="submit">
