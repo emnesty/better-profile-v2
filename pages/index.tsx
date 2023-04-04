@@ -33,9 +33,9 @@ export default function IndexPage() {
               </h1>
               <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
-                and scrambled it to make a type specimen book.
+                Lorem Ipsum has been the industry&apos;s standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book.
               </p>
             </div>
             <div className="max-w-[625px flex flex-col items-start">
@@ -44,9 +44,9 @@ export default function IndexPage() {
               </h1>
               <p className="rounded-3xl border border-gray-200 bg-white px-8 py-5 py-5 text-lg text-slate-700 dark:border-gray-700 dark:bg-gray-800 dark:text-slate-400 sm:text-sm">
                 is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
-                and scrambled it to make a type specimen book.
+                Lorem Ipsum has been the industry&apos;s standard dummy text
+                ever since the 1500s, when an unknown printer took a galley of
+                type and scrambled it to make a type specimen book.
               </p>
             </div>
             {/* <div className="flex col-span-2 gap-20 py-9 justify-between">
